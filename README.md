@@ -26,7 +26,7 @@ En annan förbättring var att vi gjorde hela hemsidan reponsiv. Detta är någo
 
 ## Demo link
 
-[DEMO](https://lovelanai.github.io/Re-design-of-webshop/)
+[DEMO](https://willen17.github.io/Redesign-of-website//)
 
 ## Licensing
 
